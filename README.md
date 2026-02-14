@@ -126,8 +126,13 @@ Conference / Journal (under review)
 <div class="section">
 <h2>Video</h2>
 <div class="video">
-<iframe src="https://youtu.be/fToNWljt--Q"
-allowfullscreen></iframe>
+<iframe 
+src="https://www.youtube.com/embed/fToNWljt--Q"
+title="OpenClaw Video"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
 </div>
 </div>
 
