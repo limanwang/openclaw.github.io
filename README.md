@@ -126,7 +126,7 @@ Conference / Journal (under review)
 <div class="section">
 <h2>Video</h2>
 <div class="video">
-<iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+<iframe src="https://youtu.be/fToNWljt--Q"
 allowfullscreen></iframe>
 </div>
 </div>
